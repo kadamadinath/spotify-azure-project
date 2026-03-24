@@ -1,0 +1,9 @@
+{
+	"name": "adf-for-aadi",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "dcf7a093-d2ec-482c-9d8e-d3840fe15df4",
+		"tenantId": "dad97b64-699f-413b-b269-9e44f644e79a"
+	}
+}
